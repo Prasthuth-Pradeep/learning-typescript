@@ -1,0 +1,2 @@
+Comple typescript code to javascript : tsc app.ts 
+Here the app.js is complined from app.js file
